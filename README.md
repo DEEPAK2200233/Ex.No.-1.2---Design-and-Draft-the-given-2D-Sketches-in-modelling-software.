@@ -36,7 +36,7 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
-![edm1 1](https://github.com/DEEPAK2200233/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/118707676/456b903e-0023-4547-b9bd-7d8cee2cbe51)
+![2023-06-03 (9)](https://github.com/DEEPAK2200233/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/118707676/396964ee-c42f-4492-8cd8-9dcf205e4371)
 
  
  ## RESULT
